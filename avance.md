@@ -176,9 +176,3 @@ Implementar primero la comunicación unidireccional (sensor→router) y, una vez
 - [x] Claridad del problema y de la arquitectura preliminar
 - [x] Presencia de comunicación real sobre red (TCP/IP)
 - [x] Presencia prevista de seguridad o confiabilidad básica
-
----
-
-**Fecha de entrega:** 10/06/2026
-
-**Firma del grupo (representante):** ___________________________
