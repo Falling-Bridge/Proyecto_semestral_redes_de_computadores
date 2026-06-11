@@ -11,7 +11,7 @@
 |--------|--------|-----------|-------------|
 | Ignacio Jesús Soto Miranda |  [@Liivne](http://github.com/Liivne)  | 2023447412 | ignsoto2023@udec.cl |
 | Lucas Daniel Morales Oyanedel | [@Falling-Bridge](https://github.com/Falling-Bridge) | 2023441490 | lucmorales2023@udec.cl | 
-| Valentina Alejandra Serón Canales | [@arenisca](https://github.com/arenisca) | | vseron2020@udec.cl |
+| Valentina Alejandra Serón Canales | [@arenisca](https://github.com/arenisca) | 2020901589 | vseron2020@udec.cl |
 
 ---
 
@@ -158,7 +158,7 @@ Implementar primero la comunicación unidireccional (sensor→router) y, una vez
 | Arquitectura y documentación |  |
 | Cliente / Nodo IoT simulado |  |
 | Repeater y Router central |  |
-| Pruebas y análisis con Wireshark | |
+| Pruebas y análisis con Wireshark | Valentina |
 
 ---
 
