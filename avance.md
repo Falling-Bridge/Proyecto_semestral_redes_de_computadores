@@ -8,7 +8,7 @@
 ## 1. Identificación del grupo
 
 | Nombre | GitHub | Matrícula | Correo UDEC |
-|--------|--------|-----------|
+|--------|--------|-----------|-------------|
 | Ignacio Jesús Soto Miranda |  [@Liivne](http://github.com/Liivne)  | 2023447412 | ignsoto2023@udec.cl |
 | Lucas Daniel Morales Oyanedel | [@Falling-Bridge](https://github.com/Falling-Bridge) | 2023441490 | lucmorales2023@udec.cl | 
 | Valentina Alejandra Serón Canales | [@arenisca](https://github.com/arenisca) | | vseron2020@udec.cl |
